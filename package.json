@@ -31,7 +31,6 @@
   "dependencies": {
     "fs-extra": "^6.0.1",
     "moment": "^2.23.0",
-    "punycode": "^2.1.1",
-    "slack-node": "^0.1.8"
+    "punycode": "^2.1.1"
   }
 }

@@ -1,6 +1,7 @@
 class Config {
   constructor () {
-    this.version = 1
+    this.adminContact = 'admin@compilenix.org'
+    this.rejectUnauthorizedSsl = true
 
     this.enableSlack = true
     this.slackWebHookUri = 'https://hooks.slack.com/services/xxxxxx/xxxxxx/xxxxxx'
